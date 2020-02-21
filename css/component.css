@@ -1,6 +1,6 @@
 /* General styles for all menus */
 .cbp-spmenu {
-	background: #ffa81d;
+	background: #91d5ff;
 	position: fixed;
 }
 button#showLeftPush {
@@ -51,7 +51,7 @@ button#showLeftPush {
 }
 
 .cbp-spmenu-vertical a {
-    border-bottom: 1px ridge #ffc262;
+    border-bottom: 1px ridge #258ecd;
     padding: 1.3em;
     font-family: 'Josefin Sans', sans-serif;
 }
